@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """Exibe relatório de crianças por atividade.
 
 Imprimir a lista de crianças agrupadas por sala que frequenta cada uma 
